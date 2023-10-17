@@ -1,6 +1,6 @@
 import { Application, Assets } from "pixi.js";
 
-const useOldSpine = true;
+const useOldSpine = false;
 const spineVersion: 38 | 40 = 40;
 const packingType: 'polygons' | 'rectangles' = 'rectangles';
 const assetsFolder = `${spineVersion}_json_${packingType}`;

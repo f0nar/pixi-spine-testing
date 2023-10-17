@@ -1,0 +1,97 @@
+
+skeleton.png
+size: 1024, 1024
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+images/1
+  rotate: false
+  xy: 262, 235
+  size: 189, 189
+  orig: 189, 189
+  offset: 0, 0
+  index: -1
+images/2
+  rotate: false
+  xy: 563, 330
+  size: 286, 269
+  orig: 286, 269
+  offset: 0, 0
+  index: -1
+images/3
+  rotate: false
+  xy: 5, 172
+  size: 252, 252
+  orig: 252, 252
+  offset: 0, 0
+  index: -1
+images/4
+  rotate: false
+  xy: 5, 429
+  size: 553, 170
+  orig: 553, 170
+  offset: 0, 0
+  index: -1
+images/animated_clipping
+  rotate: false
+  xy: 456, 265
+  size: 521, 60
+  orig: 521, 60
+  offset: 0, 0
+  index: -1
+images/clipping
+  rotate: false
+  xy: 5, 70
+  size: 404, 60
+  orig: 404, 60
+  offset: 0, 0
+  index: -1
+images/custom_graph
+  rotate: false
+  xy: 310, 5
+  size: 285, 60
+  orig: 285, 60
+  offset: 0, 0
+  index: -1
+images/ik
+  rotate: false
+  xy: 600, 5
+  size: 243, 60
+  orig: 243, 60
+  offset: 0, 0
+  index: -1
+images/linear
+  rotate: true
+  xy: 854, 375
+  size: 224, 60
+  orig: 224, 60
+  offset: 0, 0
+  index: -1
+images/mesh_bone
+  rotate: false
+  xy: 262, 135
+  size: 475, 60
+  orig: 475, 60
+  offset: 0, 0
+  index: -1
+images/mesh_point
+  rotate: false
+  xy: 456, 200
+  size: 483, 60
+  orig: 483, 60
+  offset: 0, 0
+  index: -1
+images/path_constrain
+  rotate: false
+  xy: 5, 5
+  size: 300, 60
+  orig: 300, 60
+  offset: 0, 0
+  index: -1
+images/transform
+  rotate: false
+  xy: 414, 70
+  size: 393, 60
+  orig: 393, 60
+  offset: 0, 0
+  index: -1

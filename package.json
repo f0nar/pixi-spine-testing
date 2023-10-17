@@ -1,0 +1,24 @@
+{
+  "name": "pure-pixi",
+  "version": "1.0.0",
+  "description": "",
+  "private": "true",
+  "keywords": [],
+  "author": "glebv",
+  "license": "UNLICENSED",
+  "scripts": {
+    "dev": "vite --open",
+    "preview": "vite preview",
+    "test": "tsc"
+  },
+  "dependencies": {
+    "@esotericsoftware/spine-pixi": "4.2.23",
+    "pixi-spine": "^4.0.4",
+    "pixi.js": "^7.3.1"
+  },
+  "devDependencies": {
+    "typescript": "^5.2.2",
+    "vite": "^4.4.9"
+  },
+  "type": "module"
+}

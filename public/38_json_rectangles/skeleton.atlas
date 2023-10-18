@@ -6,7 +6,7 @@ filter: Nearest, Nearest
 repeat: none
 images/1
   rotate: false
-  xy: 708, 325
+  xy: 563, 260
   size: 189, 189
   orig: 189, 189
   offset: 0, 0
@@ -20,7 +20,7 @@ images/2
   index: -1
 images/3
   rotate: false
-  xy: 563, 68
+  xy: 757, 197
   size: 252, 252
   orig: 252, 252
   offset: 0, 0
@@ -35,63 +35,70 @@ images/4
 images/animated_clipping
   rotate: false
   xy: 5, 649
-  size: 521, 60
-  orig: 521, 60
+  size: 581, 60
+  orig: 581, 60
   offset: 0, 0
   index: -1
 images/clipping
   rotate: false
-  xy: 531, 649
-  size: 404, 60
-  orig: 404, 60
+  xy: 5, 584
+  size: 452, 60
+  orig: 452, 60
   offset: 0, 0
   index: -1
 images/custom_graph
   rotate: false
-  xy: 5, 584
-  size: 285, 60
-  orig: 285, 60
+  xy: 591, 649
+  size: 330, 60
+  orig: 330, 60
   offset: 0, 0
   index: -1
 images/ik
   rotate: false
-  xy: 295, 584
-  size: 243, 60
-  orig: 243, 60
+  xy: 462, 584
+  size: 298, 60
+  orig: 298, 60
   offset: 0, 0
   index: -1
 images/linear
   rotate: false
-  xy: 543, 584
-  size: 224, 60
-  orig: 224, 60
+  xy: 765, 584
+  size: 249, 60
+  orig: 249, 60
   offset: 0, 0
   index: -1
 images/mesh_bone
   rotate: false
   xy: 5, 519
-  size: 475, 60
-  orig: 475, 60
+  size: 527, 60
+  orig: 527, 60
   offset: 0, 0
   index: -1
 images/mesh_point
   rotate: false
-  xy: 485, 519
-  size: 483, 60
-  orig: 483, 60
+  xy: 5, 454
+  size: 540, 60
+  orig: 540, 60
   offset: 0, 0
   index: -1
 images/path_constrain
   rotate: false
-  xy: 5, 454
-  size: 300, 60
-  orig: 300, 60
+  xy: 537, 519
+  size: 342, 60
+  orig: 342, 60
+  offset: 0, 0
+  index: -1
+images/skins
+  rotate: false
+  xy: 884, 519
+  size: 130, 60
+  orig: 130, 60
   offset: 0, 0
   index: -1
 images/transform
   rotate: false
-  xy: 310, 454
-  size: 393, 60
-  orig: 393, 60
+  xy: 550, 454
+  size: 441, 60
+  orig: 441, 60
   offset: 0, 0
   index: -1
